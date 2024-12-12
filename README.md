@@ -24,7 +24,5 @@ bash run_apex_test.sh --target-org mohan.chinnappan.n.ea10@gmail.com
 
 open https://mohan-chinnappan-n5.github.io/apex/apex-test-results.html
 
-
-<video src="apexTestClasses.webm" width="600" controls>
-    Your browser does not support the video tag.
-</video>
+## Demo
+![demo](apexTestClasses.webm.gif)
