@@ -14,6 +14,8 @@ sf force auth web login -r https://test.salesforce.com
 `
 ```
 
+## Download the [script](run_apex_test.sh) to your machine
+
 ## Run the test classes
 ```
 bash run_apex_test.sh --target-org mohan.chinnappan.n.ea10@gmail.com 
