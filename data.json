@@ -1,0 +1,92 @@
+[
+  {
+    "TestCase": "Upload_controller_EMTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "Upload_controller_EMTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "Upload_controller_EMTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_ActivityTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_DataflowTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_OpportunityRelatedTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_OpportunityTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_QuotaTest",
+    "Pass": 0,
+    "Fail": 1
+  },
+  {
+    "TestCase": "DataManager_UtilsTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_UtilsTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_UtilsTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_UtilsTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_UtilsTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_CleanUpTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "Upload_Init_EMTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "Upload_Init_EMTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "DataManager_controllerTest",
+    "Pass": 1,
+    "Fail": 0
+  },
+  {
+    "TestCase": "Upload_ProcessTest_EM",
+    "Pass": 1,
+    "Fail": 0
+  }
+]
